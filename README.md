@@ -8,3 +8,9 @@
 
 ## Install
 - Check the latest release
+
+## Manual
+```sh
+git clone https://github.com/Neotoxic-off/shellshockable
+cd shellshockable/shellshockable
+```
