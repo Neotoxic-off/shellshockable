@@ -1,0 +1,166 @@
+common:
+  - /
+  - /printenv
+  - /test.cgi
+  - /test-cgi
+  - /nph-test.cgi
+  - /handler
+  - /handler.cgi
+  - /cgi_process
+
+admin_panels:
+  - /admin.cgi
+  - /administrator.cgi
+  - /cgi-bin/admin.cgi
+  - /cgi-bin/admin.pl
+  - /cgi-bin/admin/admin.cgi
+  - /cgi-bin/admin/setup.cgi
+  - /cgi-bin/adminhot.cgi
+  - /cgi-bin/adminwww.cgi
+  - /cgi-bin/ezadmin.cgi
+  - /dcadmin.cgi
+  - /cgi-bin/.cobalt/alert/service.cgi
+  - /cgi-bin/.cobalt/message/message.cgi
+  - /cgi-bin/.cobalt/siteUserMod/siteUserMod.cgi
+  - /siteUserMod.cgi
+  - /megabook/admin.cgi
+  - /ministats/admin.cgi
+
+diagnostics:
+  - /cgi-bin/status
+  - /cgi-bin/diagnose.cgi
+  - /cgi-bin/printenv
+  - /cgi-bin/environ.cgi
+  - /fcgi-bin/echo
+  - /fcgi-bin/echo2
+  - /cgi-bin/html2chtml.cgi
+  - /cgi-bin/html2wml.cgi
+  - /MachineInfo
+  - /create_release.sh
+  - /newsletter.sh
+  - /SetSecurity.shm
+  - /cgi-bin/handler/netsonar
+
+mail_systems:
+  - /cgi-bin/FormMail.cgi
+  - /cgi-bin/mail/emumail.cgi
+  - /cgi-bin/mail/nph-mr.cgi
+  - /cgi-bin/CSMailto.cgi
+  - /cgi-bin/CSMailto/CSMailto.cgi
+  - /cgi-bin/simplestmail.cgi
+  - /cgi-bin/emumail.cgi
+  - /cgi-bin/emumail/emumail.cgi
+  - /quikmail/nph-emumail.cgi
+  - /cgi-sys/helpdesk.cgi
+  - /cgi-bin/mailnews.cgi
+
+blog_tools:
+  - /cgi-bin/blog/mt-check.cgi
+  - /cgi-bin/blog/mt-load.cgi
+  - /cgi-bin/mt-static/mt-check.cgi
+  - /cgi-bin/mt-static/mt-load.cgi
+  - /cgi-bin/mt/mt-check.cgi
+  - /cgi-bin/mt/mt-load.cgi
+
+guestbooks:
+  - /cgi-bin/csGuestBook.cgi
+  - /cgi-bin/guestbook.cgi
+  - /cgi-bin/myguestbook.cgi
+  - /cgi-bin/gbook/gbook.cgi
+  - /cgi-bin/simplestguest.cgi
+
+forums:
+  - /cgi-bin/bbs_forum.cgi
+  - /cgi-bin/cgforum.cgi
+  - /dcforum.cgi
+  - /dcforum/dcforum.cgi
+  - /wwwboard.cgi
+  - /wwwboard/wwwboard.cgi
+  - /cgis/wwwboard/wwwboard.cgi
+  - /cgi-bin/ikonboard/help.cgi
+  - /cgi-bin/AnyBoard.cgi
+
+store_ecommerce:
+  - /cgi-bin/store/index.cgi
+  - /cgi-bin/store/agora.cgi
+  - /cgi-bin/cart.cgi
+  - /cgi-bin/shop.cgi
+  - /cgi-bin/shopper.cgi
+  - /cgi-bin/quickstore.cgi
+  - /cgi-bin/webcart/webcart.cgi
+  - /Web_Store/web_store.cgi
+  - /cgi-bin/store.cgi
+  - /cgi-bin/commerce.cgi
+  - /shop/member_html.cgi
+  - /shop/normal_html.cgi
+  - /cgi-bin/ezshopper/loadpage.cgi
+  - /cgi-bin/ezshopper/search.cgi
+  - /cgi-bin/ezshopper2/loadpage.cgi
+  - /cgi-bin/ezshopper3/loadpage.cgi
+
+authentication:
+  - /cgi-bin/login.cgi
+  - /cgi-bin/vpasswd.cgi
+  - /cgi-bin/csPassword.cgi
+  - /cgi-bin/csPassword/csPassword.cgi
+  - /cgi-bin/register.cgi
+  - /cgi-bin/userreg.cgi
+
+search:
+  - /cgi-bin/search
+  - /cgi-bin/search.cgi
+  - /cgi-bin/search/search.cgi
+  - /cgi-bin/infosrch.cgi
+  - /infosrch.cgi
+  - /ROADS/cgi-bin/search.pl
+  - /site_searcher.cgi
+
+diagnostics_monitoring:
+  - /axis-cgi/buffer/command.cgi
+  - /apps/web/vs_diag.cgi
+  - /cgi-bin/bb-ack.sh
+  - /cgi-bin/bb-hist.sh
+  - /cgi-bin/bb-histlog.sh
+  - /cgi-bin/bb-hostsvc.sh
+  - /cgi-bin/bb-rep.sh
+  - /cgi-bin/bb-replog.sh
+  - /cgi-bin/status
+  - /scancfg.cgi
+
+upload_tools:
+  - /cgi-bin/upload.cgi
+  - /upload.cgi
+
+developer_tools:
+  - /cgi-bin/debug.cgi
+  - /parse_xml.cgi
+  - /cgi-bin/print.cgi
+  - /cgi-bin/test2.pl
+  - /cgi-bin/testing_whatever
+  - /cgi-bin/test/test.cgi
+  - /sample01.cgi
+  - /sample02.cgi
+  - /sample03.cgi
+  - /sample04.cgi
+  - /sampleposteddata.cgi
+
+misc:
+  - /cgi-bin/pollit/Poll_It_SSI_v2.0.cgi
+  - /cgi-bin/finger.cgi
+  - /cgi-bin/photo/manage.cgi
+  - /cgi-bin/photo/protected/manage.cgi
+  - /cgi-bin/enter_bug.cgi
+  - /cgi-bin/submit.cgi
+  - /cgi-bin/details.cgi
+  - /cgi-bin/imageFolio.cgi
+  - /cgi-bin/imageFolio/admin/admin.cgi
+  - /mod/apage/apage.cgi
+  - /cgi-bin/viewcvs.cgi
+  - /cgi-bin/journal.cgi
+  - /cgi-bin/musicqueue.cgi
+  - /cgi-bin/talkback.cgi
+  - /cgi-bin/vote.cgi
+  - /cgi-bin/reviews/newpro.cgi
+  - /cgi-bin/newsdesk.cgi
+  - /cgi-bin/calendar/index.cgi
+  - /cgi-bin/nph-exploitscanget.cgi
