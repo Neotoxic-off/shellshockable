@@ -1,0 +1,22 @@
+admin_panels:
+  - /admin.cgi
+  - /administrator.cgi
+  - /cgi-bin/admin.cgi
+  - /cgi-bin/admin.pl
+  - /cgi-bin/admin/admin.cgi
+  - /cgi-bin/admin/setup.cgi
+  - /cgi-bin/adminhot.cgi
+  - /cgi-bin/adminwww.cgi
+  - /cgi-bin/ezadmin.cgi
+  - /dcadmin.cgi
+  - /cgi-bin/.cobalt/alert/service.cgi
+  - /cgi-bin/.cobalt/message/message.cgi
+  - /cgi-bin/.cobalt/siteUserMod/siteUserMod.cgi
+  - /siteUserMod.cgi
+  - /megabook/admin.cgi
+  - /ministats/admin.cgi
+  - /cgi-bin/admin/index.cgi
+  - /cgi-bin/controlpanel.cgi
+  - /cgi-bin/cpanel.cgi
+  - /cgi-bin/manage.cgi
+  - /cgi-bin/rootaccess.cgi

@@ -1,0 +1,16 @@
+developer_tools:
+  - /cgi-bin/debug.cgi
+  - /parse_xml.cgi
+  - /cgi-bin/print.cgi
+  - /cgi-bin/test2.pl
+  - /cgi-bin/testing_whatever
+  - /cgi-bin/test/test.cgi
+  - /sample01.cgi
+  - /sample02.cgi
+  - /sample03.cgi
+  - /sample04.cgi
+  - /sampleposteddata.cgi
+  - /cgi-bin/devtest.cgi
+  - /cgi-bin/codecheck.cgi
+  - /cgi-bin/envdump.cgi
+  - /cgi-bin/devtools.cgi

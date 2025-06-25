@@ -7,5 +7,8 @@ pub struct Arguments {
     pub vuln_file: String,
 
     #[arg(short, long)]
-    pub uri: String
+    pub uri: String,
+
+    #[arg(short, long)]
+    pub proxies: Option<String>
 }

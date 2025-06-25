@@ -1,0 +1,17 @@
+mail_systems:
+  - /cgi-bin/FormMail.cgi
+  - /cgi-bin/mail/emumail.cgi
+  - /cgi-bin/mail/nph-mr.cgi
+  - /cgi-bin/CSMailto.cgi
+  - /cgi-bin/CSMailto/CSMailto.cgi
+  - /cgi-bin/simplestmail.cgi
+  - /cgi-bin/emumail.cgi
+  - /cgi-bin/emumail/emumail.cgi
+  - /quikmail/nph-emumail.cgi
+  - /cgi-sys/helpdesk.cgi
+  - /cgi-bin/mailnews.cgi
+  - /cgi-bin/mailform.cgi
+  - /cgi-bin/mailer.cgi
+  - /cgi-bin/mailsend.cgi
+  - /cgi-bin/emailform.cgi
+  - /cgi-bin/sendmail.cgi

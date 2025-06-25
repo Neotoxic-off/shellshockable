@@ -1,0 +1,16 @@
+diagnostics_monitoring:
+  - /axis-cgi/buffer/command.cgi
+  - /apps/web/vs_diag.cgi
+  - /cgi-bin/bb-ack.sh
+  - /cgi-bin/bb-hist.sh
+  - /cgi-bin/bb-histlog.sh
+  - /cgi-bin/bb-hostsvc.sh
+  - /cgi-bin/bb-rep.sh
+  - /cgi-bin/bb-replog.sh
+  - /cgi-bin/status
+  - /scancfg.cgi
+  - /cgi-bin/nettest.cgi
+  - /cgi-bin/uptime.cgi
+  - /cgi-bin/status_check.cgi
+  - /cgi-bin/system_check.cgi
+  

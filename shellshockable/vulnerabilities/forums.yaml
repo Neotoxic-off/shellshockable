@@ -1,0 +1,14 @@
+forums:
+  - /cgi-bin/bbs_forum.cgi
+  - /cgi-bin/cgforum.cgi
+  - /dcforum.cgi
+  - /dcforum/dcforum.cgi
+  - /wwwboard.cgi
+  - /wwwboard/wwwboard.cgi
+  - /cgis/wwwboard/wwwboard.cgi
+  - /cgi-bin/ikonboard/help.cgi
+  - /cgi-bin/AnyBoard.cgi
+  - /cgi-bin/forum.cgi
+  - /cgi-bin/discussion.cgi
+  - /cgi-bin/board.cgi
+  - /cgi-bin/forumboard.cgi

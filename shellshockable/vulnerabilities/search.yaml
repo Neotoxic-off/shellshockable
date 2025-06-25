@@ -1,0 +1,12 @@
+search:
+  - /cgi-bin/search
+  - /cgi-bin/search.cgi
+  - /cgi-bin/search/search.cgi
+  - /cgi-bin/infosrch.cgi
+  - /infosrch.cgi
+  - /ROADS/cgi-bin/search.pl
+  - /site_searcher.cgi
+  - /cgi-bin/query.cgi
+  - /cgi-bin/lookup.cgi
+  - /cgi-bin/find.cgi
+  - /cgi-bin/locate.cgi

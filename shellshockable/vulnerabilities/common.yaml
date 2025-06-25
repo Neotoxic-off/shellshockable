@@ -1,0 +1,13 @@
+common:
+  - /
+  - /printenv
+  - /test.cgi
+  - /test-cgi
+  - /nph-test.cgi
+  - /handler
+  - /handler.cgi
+  - /cgi_process
+  - /cgi-bin/test
+  - /cgi-bin/bash
+  - /cgi-bin/cmd.cgi
+  - /cgi-bin/sh

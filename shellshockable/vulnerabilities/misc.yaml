@@ -1,0 +1,25 @@
+misc:
+  - /cgi-bin/pollit/Poll_It_SSI_v2.0.cgi
+  - /cgi-bin/finger.cgi
+  - /cgi-bin/photo/manage.cgi
+  - /cgi-bin/photo/protected/manage.cgi
+  - /cgi-bin/enter_bug.cgi
+  - /cgi-bin/submit.cgi
+  - /cgi-bin/details.cgi
+  - /cgi-bin/imageFolio.cgi
+  - /cgi-bin/imageFolio/admin/admin.cgi
+  - /mod/apage/apage.cgi
+  - /cgi-bin/viewcvs.cgi
+  - /cgi-bin/journal.cgi
+  - /cgi-bin/musicqueue.cgi
+  - /cgi-bin/talkback.cgi
+  - /cgi-bin/vote.cgi
+  - /cgi-bin/reviews/newpro.cgi
+  - /cgi-bin/newsdesk.cgi
+  - /cgi-bin/calendar/index.cgi
+  - /cgi-bin/nph-exploitscanget.cgi
+  - /cgi-bin/report.cgi
+  - /cgi-bin/user.cgi
+  - /cgi-bin/serverinfo.cgi
+  - /cgi-bin/dump.cgi
+  - /cgi-bin/eventlog.cgi

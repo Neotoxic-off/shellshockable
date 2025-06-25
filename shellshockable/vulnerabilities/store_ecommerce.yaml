@@ -1,0 +1,21 @@
+store_ecommerce:
+  - /cgi-bin/store/index.cgi
+  - /cgi-bin/store/agora.cgi
+  - /cgi-bin/cart.cgi
+  - /cgi-bin/shop.cgi
+  - /cgi-bin/shopper.cgi
+  - /cgi-bin/quickstore.cgi
+  - /cgi-bin/webcart/webcart.cgi
+  - /Web_Store/web_store.cgi
+  - /cgi-bin/store.cgi
+  - /cgi-bin/commerce.cgi
+  - /shop/member_html.cgi
+  - /shop/normal_html.cgi
+  - /cgi-bin/ezshopper/loadpage.cgi
+  - /cgi-bin/ezshopper/search.cgi
+  - /cgi-bin/ezshopper2/loadpage.cgi
+  - /cgi-bin/ezshopper3/loadpage.cgi
+  - /cgi-bin/payment.cgi
+  - /cgi-bin/checkout.cgi
+  - /cgi-bin/ecom.cgi
+  - /cgi-bin/invoice.cgi

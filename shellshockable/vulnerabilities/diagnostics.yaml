@@ -1,0 +1,19 @@
+diagnostics:
+  - /cgi-bin/status
+  - /cgi-bin/diagnose.cgi
+  - /cgi-bin/printenv
+  - /cgi-bin/environ.cgi
+  - /fcgi-bin/echo
+  - /fcgi-bin/echo2
+  - /cgi-bin/html2chtml.cgi
+  - /cgi-bin/html2wml.cgi
+  - /MachineInfo
+  - /create_release.sh
+  - /newsletter.sh
+  - /SetSecurity.shm
+  - /cgi-bin/handler/netsonar
+  - /cgi-bin/sysinfo.cgi
+  - /cgi-bin/debug_output.cgi
+  - /cgi-bin/system_info.cgi
+  - /cgi-bin/showconfig.cgi
+  - /cgi-bin/procinfo.cgi

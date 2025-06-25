@@ -1,0 +1,11 @@
+blog_tools:
+  - /cgi-bin/blog/mt-check.cgi
+  - /cgi-bin/blog/mt-load.cgi
+  - /cgi-bin/mt-static/mt-check.cgi
+  - /cgi-bin/mt-static/mt-load.cgi
+  - /cgi-bin/mt/mt-check.cgi
+  - /cgi-bin/mt/mt-load.cgi
+  - /cgi-bin/mt/mt.cgi
+  - /cgi-bin/blog/blog.cgi
+  - /cgi-bin/weblog.cgi
+  - /cgi-bin/blogadmin.cgi

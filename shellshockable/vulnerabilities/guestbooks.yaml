@@ -1,0 +1,10 @@
+guestbooks:
+  - /cgi-bin/csGuestBook.cgi
+  - /cgi-bin/guestbook.cgi
+  - /cgi-bin/myguestbook.cgi
+  - /cgi-bin/gbook/gbook.cgi
+  - /cgi-bin/simplestguest.cgi
+  - /cgi-bin/guest.cgi
+  - /cgi-bin/guestlog.cgi
+  - /cgi-bin/gb.cgi
+  - /cgi-bin/guestentry.cgi

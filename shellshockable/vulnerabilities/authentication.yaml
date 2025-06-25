@@ -1,0 +1,11 @@
+authentication:
+  - /cgi-bin/login.cgi
+  - /cgi-bin/vpasswd.cgi
+  - /cgi-bin/csPassword.cgi
+  - /cgi-bin/csPassword/csPassword.cgi
+  - /cgi-bin/register.cgi
+  - /cgi-bin/userreg.cgi
+  - /cgi-bin/auth.cgi
+  - /cgi-bin/session.cgi
+  - /cgi-bin/pass.cgi
+  - /cgi-bin/validate.cgi

@@ -1,0 +1,7 @@
+upload_tools:
+  - /cgi-bin/upload.cgi
+  - /upload.cgi
+  - /cgi-bin/fileupload.cgi
+  - /cgi-bin/uploader.cgi
+  - /cgi-bin/sendfile.cgi
+  - /cgi-bin/put.cgi

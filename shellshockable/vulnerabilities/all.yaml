@@ -7,6 +7,10 @@ common:
   - /handler
   - /handler.cgi
   - /cgi_process
+  - /cgi-bin/test
+  - /cgi-bin/bash
+  - /cgi-bin/cmd.cgi
+  - /cgi-bin/sh
 
 admin_panels:
   - /admin.cgi
@@ -25,6 +29,12 @@ admin_panels:
   - /siteUserMod.cgi
   - /megabook/admin.cgi
   - /ministats/admin.cgi
+  - /cgi-bin/admin/index.cgi
+  - /cgi-bin/controlpanel.cgi
+  - /cgi-bin/cpanel.cgi
+  - /cgi-bin/manage.cgi
+  - /cgi-bin/rootaccess.cgi
+
 
 diagnostics:
   - /cgi-bin/status
@@ -40,6 +50,12 @@ diagnostics:
   - /newsletter.sh
   - /SetSecurity.shm
   - /cgi-bin/handler/netsonar
+  - /cgi-bin/sysinfo.cgi
+  - /cgi-bin/debug_output.cgi
+  - /cgi-bin/system_info.cgi
+  - /cgi-bin/showconfig.cgi
+  - /cgi-bin/procinfo.cgi
+
 
 mail_systems:
   - /cgi-bin/FormMail.cgi
@@ -53,6 +69,12 @@ mail_systems:
   - /quikmail/nph-emumail.cgi
   - /cgi-sys/helpdesk.cgi
   - /cgi-bin/mailnews.cgi
+  - /cgi-bin/mailform.cgi
+  - /cgi-bin/mailer.cgi
+  - /cgi-bin/mailsend.cgi
+  - /cgi-bin/emailform.cgi
+  - /cgi-bin/sendmail.cgi
+
 
 blog_tools:
   - /cgi-bin/blog/mt-check.cgi
@@ -61,6 +83,11 @@ blog_tools:
   - /cgi-bin/mt-static/mt-load.cgi
   - /cgi-bin/mt/mt-check.cgi
   - /cgi-bin/mt/mt-load.cgi
+  - /cgi-bin/mt/mt.cgi
+  - /cgi-bin/blog/blog.cgi
+  - /cgi-bin/weblog.cgi
+  - /cgi-bin/blogadmin.cgi
+
 
 guestbooks:
   - /cgi-bin/csGuestBook.cgi
@@ -68,6 +95,11 @@ guestbooks:
   - /cgi-bin/myguestbook.cgi
   - /cgi-bin/gbook/gbook.cgi
   - /cgi-bin/simplestguest.cgi
+  - /cgi-bin/guest.cgi
+  - /cgi-bin/guestlog.cgi
+  - /cgi-bin/gb.cgi
+  - /cgi-bin/guestentry.cgi
+
 
 forums:
   - /cgi-bin/bbs_forum.cgi
@@ -79,6 +111,10 @@ forums:
   - /cgis/wwwboard/wwwboard.cgi
   - /cgi-bin/ikonboard/help.cgi
   - /cgi-bin/AnyBoard.cgi
+  - /cgi-bin/forum.cgi
+  - /cgi-bin/discussion.cgi
+  - /cgi-bin/board.cgi
+  - /cgi-bin/forumboard.cgi
 
 store_ecommerce:
   - /cgi-bin/store/index.cgi
@@ -97,6 +133,10 @@ store_ecommerce:
   - /cgi-bin/ezshopper/search.cgi
   - /cgi-bin/ezshopper2/loadpage.cgi
   - /cgi-bin/ezshopper3/loadpage.cgi
+  - /cgi-bin/payment.cgi
+  - /cgi-bin/checkout.cgi
+  - /cgi-bin/ecom.cgi
+  - /cgi-bin/invoice.cgi
 
 authentication:
   - /cgi-bin/login.cgi
@@ -105,6 +145,10 @@ authentication:
   - /cgi-bin/csPassword/csPassword.cgi
   - /cgi-bin/register.cgi
   - /cgi-bin/userreg.cgi
+  - /cgi-bin/auth.cgi
+  - /cgi-bin/session.cgi
+  - /cgi-bin/pass.cgi
+  - /cgi-bin/validate.cgi
 
 search:
   - /cgi-bin/search
@@ -114,6 +158,10 @@ search:
   - /infosrch.cgi
   - /ROADS/cgi-bin/search.pl
   - /site_searcher.cgi
+  - /cgi-bin/query.cgi
+  - /cgi-bin/lookup.cgi
+  - /cgi-bin/find.cgi
+  - /cgi-bin/locate.cgi
 
 diagnostics_monitoring:
   - /axis-cgi/buffer/command.cgi
@@ -126,10 +174,18 @@ diagnostics_monitoring:
   - /cgi-bin/bb-replog.sh
   - /cgi-bin/status
   - /scancfg.cgi
+  - /cgi-bin/nettest.cgi
+  - /cgi-bin/uptime.cgi
+  - /cgi-bin/status_check.cgi
+  - /cgi-bin/system_check.cgi
 
 upload_tools:
   - /cgi-bin/upload.cgi
   - /upload.cgi
+  - /cgi-bin/fileupload.cgi
+  - /cgi-bin/uploader.cgi
+  - /cgi-bin/sendfile.cgi
+  - /cgi-bin/put.cgi
 
 developer_tools:
   - /cgi-bin/debug.cgi
@@ -143,6 +199,10 @@ developer_tools:
   - /sample03.cgi
   - /sample04.cgi
   - /sampleposteddata.cgi
+  - /cgi-bin/devtest.cgi
+  - /cgi-bin/codecheck.cgi
+  - /cgi-bin/envdump.cgi
+  - /cgi-bin/devtools.cgi
 
 misc:
   - /cgi-bin/pollit/Poll_It_SSI_v2.0.cgi
@@ -164,3 +224,8 @@ misc:
   - /cgi-bin/newsdesk.cgi
   - /cgi-bin/calendar/index.cgi
   - /cgi-bin/nph-exploitscanget.cgi
+  - /cgi-bin/report.cgi
+  - /cgi-bin/user.cgi
+  - /cgi-bin/serverinfo.cgi
+  - /cgi-bin/dump.cgi
+  - /cgi-bin/eventlog.cgi
